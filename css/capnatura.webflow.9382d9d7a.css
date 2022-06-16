@@ -156,62 +156,62 @@ blockquote {
   bottom: 0%;
   width: 100%;
   height: 100%;
-  background-image: url("../images/624b25c68c404b1a70e14627_leaf_fibospiral.jpeg");
+  background-image: url("/images/624b25c68c404b1a70e14627_leaf_fibospiral.jpeg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .hero-background-image.journal-hero-background {
-  background-image: url("../images/624b25c68c404b6946e14606_Travel004.jpeg");
+  background-image: url("/images/624b25c68c404b6946e14606_Travel004.jpeg");
 }
 
 .hero-background-image.about-intro-background {
   width: 20rem;
   height: 20rem;
   border-radius: 0%;
-  background-image: url("../images/624b25c68c404b3405e14621_Airwave%202.jpg");
+  background-image: url("/images/624b25c68c404b3405e14621_Airwave%202.jpg");
   background-position: 35% 50%;
 }
 
 .hero-background-image.steps-background {
-  background-image: url("../images/624b25c68c404bcfcfe14603_Family003.jpeg");
+  background-image: url("/images/624b25c68c404bcfcfe14603_Family003.jpeg");
 }
 
 .hero-background-image.about-hero-background {
-  background-image: url("../images/624b25c68c404b6a53e14634_Infrared%20Detox%201.jpg");
+  background-image: url("/images/624b25c68c404b6a53e14634_Infrared%20Detox%201.jpg");
   background-position: 50% 0%;
 }
 
 .hero-background-image.support-hero-background {
-  background-image: url("../images/624b25c68c404bed3be14625_Coaching%203.jpg");
+  background-image: url("/images/624b25c68c404bed3be14625_Coaching%203.jpg");
 }
 
 .hero-background-image.benefit-intro-background {
-  background-image: url("../images/624b25c68c404b6946e14606_Travel004.jpeg");
+  background-image: url("/images/624b25c68c404b6946e14606_Travel004.jpeg");
 }
 
 .hero-background-image.password-background {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 102, 128, 0.71)), to(rgba(0, 102, 128, 0.71))), url("../images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 102, 128, 0.71), rgba(0, 102, 128, 0.71)), url("../images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 102, 128, 0.71)), to(rgba(0, 102, 128, 0.71))), url("/images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 102, 128, 0.71), rgba(0, 102, 128, 0.71)), url("/images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
 }
 
 .hero-background-image.book__hero-image {
-  background-image: url("../images/624b25c68c404b4d19e14632_Body%20Tone%202.jpg");
+  background-image: url("/images/624b25c68c404b4d19e14632_Body%20Tone%202.jpg");
   background-position: 50% 0%;
 }
 
 .hero-background-image.faq__background {
-  background-image: url("../images/627bfa9c10d3c01e01462eda_Cell%20Recharge%202.jpg");
+  background-image: url("/images/627bfa9c10d3c01e01462eda_Cell%20Recharge%202.jpg");
   background-position: 50% 50%;
   background-size: auto;
 }
 
 .hero-background-image.promotions__hero-background {
-  background-image: url("../images/624b25c68c404b0cfbe14622_Iso%20Float%205.jpg");
+  background-image: url("/images/624b25c68c404b0cfbe14622_Iso%20Float%205.jpg");
   background-position: 50% 0%;
 }
 
@@ -918,7 +918,7 @@ blockquote {
   bottom: 0%;
   overflow: hidden;
   border-radius: 4px;
-  background-image: url("../images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
+  background-image: url("/images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
   background-position: 50% 75%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1678,7 +1678,7 @@ blockquote {
   position: relative;
   overflow: hidden;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b3405e14621_Airwave%202.jpg");
+  background-image: url("/images/624b25c68c404b3405e14621_Airwave%202.jpg");
   background-position: 30% 50%;
   background-size: cover;
 }
@@ -1973,7 +1973,7 @@ blockquote {
   padding: 4px 12px;
   border-radius: 100%;
   background-color: #006680;
-  background-image: url("../images/624b25c68c404b7c96e14619_fibonacci%20flower-01.svg");
+  background-image: url("/images/624b25c68c404b7c96e14619_fibonacci%20flower-01.svg");
   background-position: 50% 50%;
   background-size: contain;
 }
@@ -2194,30 +2194,30 @@ blockquote {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  background-image: url("../images/624b25c68c404b0da7e14602_Family001.jpeg");
+  background-image: url("/images/624b25c68c404b0da7e14602_Family001.jpeg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .team-background-image.two {
-  background-image: url("../images/624b25c68c404bcfcfe14603_Family003.jpeg");
+  background-image: url("/images/624b25c68c404bcfcfe14603_Family003.jpeg");
 }
 
 .team-background-image.three {
-  background-image: url("../images/624b25c68c404b8e1de14604_Family004.jpeg");
+  background-image: url("/images/624b25c68c404b8e1de14604_Family004.jpeg");
 }
 
 .team-background-image.four {
-  background-image: url("../images/624b25c68c404b48a3e14607_Family005.jpeg");
+  background-image: url("/images/624b25c68c404b48a3e14607_Family005.jpeg");
 }
 
 .team-background-image.five {
-  background-image: url("../images/624b25c68c404b616ce14605_Family0012.jpeg");
+  background-image: url("/images/624b25c68c404b616ce14605_Family0012.jpeg");
 }
 
 .team-background-image.six {
-  background-image: url("../images/624b25c68c404b7896e14608_Family007.jpeg");
+  background-image: url("/images/624b25c68c404b7896e14608_Family007.jpeg");
 }
 
 .checkout-form {
@@ -2966,7 +2966,7 @@ blockquote {
   bottom: auto;
   width: 110%;
   height: 110%;
-  background-image: url("../images/624b25c68c404bc1ece145fe_Travel002.jpeg");
+  background-image: url("/images/624b25c68c404bc1ece145fe_Travel002.jpeg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3713,7 +3713,7 @@ blockquote {
   display: flex;
   width: 100%;
   height: 100%;
-  background-image: url("../images/background-image.svg");
+  background-image: url("/images/background-image.svg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -4954,7 +4954,7 @@ blockquote {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  background-image: url("../images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
+  background-image: url("/images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -5241,63 +5241,63 @@ blockquote {
   bottom: 0%;
   margin-top: -36px;
   margin-bottom: -36px;
-  background-image: url("../images/624b25c68c404bc885e14612_Myostim.jpg");
+  background-image: url("/images/624b25c68c404bc885e14612_Myostim.jpg");
   background-position: 0px 0px;
   background-size: auto;
 }
 
 .paralax-background.two {
-  background-image: url("../images/624b25c68c404be92ae1460c_031.jpeg");
+  background-image: url("/images/624b25c68c404be92ae1460c_031.jpeg");
 }
 
 .paralax-background.about-one {
-  background-image: url("../images/624b25c68c404be2e9e14626_flowers.jpeg");
+  background-image: url("/images/624b25c68c404be2e9e14626_flowers.jpeg");
   background-size: cover;
 }
 
 .paralax-background.about-two {
-  background-image: url("../images/624b25c68c404b7530e14628_macaw.jpeg");
+  background-image: url("/images/624b25c68c404b7530e14628_macaw.jpeg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .paralax-background.about-three {
-  background-image: url("../images/624b25c68c404b1a70e14627_leaf_fibospiral.jpeg");
+  background-image: url("/images/624b25c68c404b1a70e14627_leaf_fibospiral.jpeg");
   background-position: 90% 50%;
   background-size: cover;
 }
 
 .paralax-background.about-four {
-  background-image: url("../images/624b25c68c404b30bfe14629_leaf-veins.jpeg");
+  background-image: url("/images/624b25c68c404b30bfe14629_leaf-veins.jpeg");
   background-size: cover;
 }
 
 .paralax-background.about-five {
-  background-image: url("../images/624b25c68c404b3cd8e1462b_Waterfall-umbrella.jpeg");
+  background-image: url("/images/624b25c68c404b3cd8e1462b_Waterfall-umbrella.jpeg");
   background-position: 70% 50%;
   background-size: cover;
 }
 
 .paralax-background.about-six {
-  background-image: url("../images/624b25c68c404b2a2de1462a_Mountain.jpeg");
+  background-image: url("/images/624b25c68c404b2a2de1462a_Mountain.jpeg");
   background-position: 80% 50%;
   background-size: cover;
 }
 
 .paralax-background.about-seven {
-  background-image: url("../images/624b25c68c404b8040e1462c_seagull.jpeg");
+  background-image: url("/images/624b25c68c404b8040e1462c_seagull.jpeg");
   background-position: 30% 50%;
   background-size: cover;
 }
 
 .paralax-background.team-banner-background {
-  background-image: url("../images/624b25c68c404b6971e1462d_anthropedia-center-dual.png");
+  background-image: url("/images/624b25c68c404b6971e1462d_anthropedia-center-dual.png");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .paralax-background.journal-footer-background {
-  background-image: url("../images/624b25c68c404b6946e14606_Travel004.jpeg");
+  background-image: url("/images/624b25c68c404b6946e14606_Travel004.jpeg");
 }
 
 .large-journal-content {
@@ -6496,8 +6496,8 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(158, 150, 141, 0.69)), to(rgba(158, 150, 141, 0.69))), url("../images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
-  background-image: linear-gradient(180deg, rgba(158, 150, 141, 0.69), rgba(158, 150, 141, 0.69)), url("../images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(158, 150, 141, 0.69)), to(rgba(158, 150, 141, 0.69))), url("/images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
+  background-image: linear-gradient(180deg, rgba(158, 150, 141, 0.69), rgba(158, 150, 141, 0.69)), url("/images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -6529,7 +6529,7 @@ blockquote {
   border-width: 2px;
   border-color: #fff;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404bd1fbe1460f_Woman%20Cropped-LR.jpg");
+  background-image: url("/images/624b25c68c404bd1fbe1460f_Woman%20Cropped-LR.jpg");
   background-position: 50% 50%;
   background-size: cover;
   text-align: left;
@@ -6586,7 +6586,7 @@ blockquote {
   border-width: 2px;
   border-color: #fff;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b2e96e14616_Focus_Closeup.jpg");
+  background-image: url("/images/624b25c68c404b2e96e14616_Focus_Closeup.jpg");
   background-position: 50% 50%;
   background-size: cover;
   text-align: left;
@@ -6611,8 +6611,8 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 89, 129, 0.84)), to(rgba(0, 89, 129, 0.84))), url("../images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 89, 129, 0.84), rgba(0, 89, 129, 0.84)), url("../images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 89, 129, 0.84)), to(rgba(0, 89, 129, 0.84))), url("/images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 89, 129, 0.84), rgba(0, 89, 129, 0.84)), url("/images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -6647,7 +6647,7 @@ blockquote {
   border-width: 2px;
   border-color: #fff #fff #fff #fcfcff;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
+  background-image: url("/images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
   background-position: 50% 50%;
   background-size: cover;
   text-align: left;
@@ -6795,7 +6795,7 @@ blockquote {
   -ms-flex-align: center;
   align-items: center;
   background-color: #000;
-  background-image: url("../images/624b25c68c404ba48ee14611_3.jpg");
+  background-image: url("/images/624b25c68c404ba48ee14611_3.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -6824,7 +6824,7 @@ blockquote {
   border-width: 2px;
   border-color: #fff;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b076ee14613_Meditation.jpg");
+  background-image: url("/images/624b25c68c404b076ee14613_Meditation.jpg");
   background-position: 50% 50%;
   background-size: cover;
   text-align: left;
@@ -6849,7 +6849,7 @@ blockquote {
   border-width: 2px;
   border-color: #fff;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
+  background-image: url("/images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
   background-position: 50% 50%;
   background-size: cover;
   text-align: left;
@@ -6965,7 +6965,7 @@ blockquote {
   border-width: 2px;
   border-color: #fff;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b5922e14615_Facial%20Renew_Closeup.jpg");
+  background-image: url("/images/624b25c68c404b5922e14615_Facial%20Renew_Closeup.jpg");
   background-position: 50% 50%;
   background-size: cover;
   text-align: left;
@@ -6990,8 +6990,8 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#006680), to(#006680)), url("../images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
-  background-image: linear-gradient(180deg, #006680, #006680), url("../images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#006680), to(#006680)), url("/images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
+  background-image: linear-gradient(180deg, #006680, #006680), url("/images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -7148,7 +7148,7 @@ blockquote {
   border-width: 2px;
   border-color: #fff;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
+  background-image: url("/images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
   background-position: 50% 50%;
   background-size: cover;
   text-align: left;
@@ -7208,8 +7208,8 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(252, 252, 255, 0.91)), to(rgba(252, 252, 255, 0.91))), url("../images/624b25c68c404bc885e14612_Myostim.jpg");
-  background-image: linear-gradient(180deg, rgba(252, 252, 255, 0.91), rgba(252, 252, 255, 0.91)), url("../images/624b25c68c404bc885e14612_Myostim.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(252, 252, 255, 0.91)), to(rgba(252, 252, 255, 0.91))), url("/images/624b25c68c404bc885e14612_Myostim.jpg");
+  background-image: linear-gradient(180deg, rgba(252, 252, 255, 0.91), rgba(252, 252, 255, 0.91)), url("/images/624b25c68c404bc885e14612_Myostim.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -7401,7 +7401,7 @@ blockquote {
 .services__program__section {
   overflow: hidden;
   min-height: 44rem;
-  background-image: url("../images/624b25c68c404b6afae1461b_Programs%20List%20img.jpg");
+  background-image: url("/images/624b25c68c404b6afae1461b_Programs%20List%20img.jpg");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -8096,7 +8096,7 @@ blockquote {
   bottom: 0%;
   overflow: hidden;
   border-radius: 4px;
-  background-image: url("../images/background-image.svg");
+  background-image: url("/images/background-image.svg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -8185,47 +8185,47 @@ blockquote {
   width: 100%;
   height: 100%;
   border-radius: 100%;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(147, 164, 150, 0.69)), to(rgba(147, 164, 150, 0.69))), url("../images/624b25c68c404b3ecce1461f_Plant%202%20Cropped-LR.jpg");
-  background-image: linear-gradient(180deg, rgba(147, 164, 150, 0.69), rgba(147, 164, 150, 0.69)), url("../images/624b25c68c404b3ecce1461f_Plant%202%20Cropped-LR.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(147, 164, 150, 0.69)), to(rgba(147, 164, 150, 0.69))), url("/images/624b25c68c404b3ecce1461f_Plant%202%20Cropped-LR.jpg");
+  background-image: linear-gradient(180deg, rgba(147, 164, 150, 0.69), rgba(147, 164, 150, 0.69)), url("/images/624b25c68c404b3ecce1461f_Plant%202%20Cropped-LR.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .plant-background.renew {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(204, 196, 167, 0.9)), to(rgba(204, 196, 167, 0.9))), url("../images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
-  background-image: linear-gradient(180deg, rgba(204, 196, 167, 0.9), rgba(204, 196, 167, 0.9)), url("../images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(204, 196, 167, 0.9)), to(rgba(204, 196, 167, 0.9))), url("/images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
+  background-image: linear-gradient(180deg, rgba(204, 196, 167, 0.9), rgba(204, 196, 167, 0.9)), url("/images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
   background-position: 0px 0px, 0px 0px;
 }
 
 .plant-background.revive {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(147, 164, 150, 0.9)), to(rgba(147, 164, 150, 0.9))), url("../images/624b25c68c404b3ecce1461f_Plant%202%20Cropped-LR.jpg");
-  background-image: linear-gradient(180deg, rgba(147, 164, 150, 0.9), rgba(147, 164, 150, 0.9)), url("../images/624b25c68c404b3ecce1461f_Plant%202%20Cropped-LR.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(147, 164, 150, 0.9)), to(rgba(147, 164, 150, 0.9))), url("/images/624b25c68c404b3ecce1461f_Plant%202%20Cropped-LR.jpg");
+  background-image: linear-gradient(180deg, rgba(147, 164, 150, 0.9), rgba(147, 164, 150, 0.9)), url("/images/624b25c68c404b3ecce1461f_Plant%202%20Cropped-LR.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .plant-background.relax {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(158, 150, 141, 0.9)), to(rgba(158, 150, 141, 0.9))), url("../images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
-  background-image: linear-gradient(180deg, rgba(158, 150, 141, 0.9), rgba(158, 150, 141, 0.9)), url("../images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(158, 150, 141, 0.9)), to(rgba(158, 150, 141, 0.9))), url("/images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
+  background-image: linear-gradient(180deg, rgba(158, 150, 141, 0.9), rgba(158, 150, 141, 0.9)), url("/images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
   background-position: 0px 0px, 50% 50%;
 }
 
 .plant-background.refocus {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(140, 183, 201, 0.9)), to(rgba(140, 183, 201, 0.9))), url("../images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
-  background-image: linear-gradient(180deg, rgba(140, 183, 201, 0.9), rgba(140, 183, 201, 0.9)), url("../images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(140, 183, 201, 0.9)), to(rgba(140, 183, 201, 0.9))), url("/images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
+  background-image: linear-gradient(180deg, rgba(140, 183, 201, 0.9), rgba(140, 183, 201, 0.9)), url("/images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
   background-position: 0px 0px, 50% 50%;
 }
 
 .plant-background.recharge {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(223, 187, 176, 0.9)), to(rgba(223, 187, 176, 0.9))), url("../images/624b25c68c404b74e4e14620_Plant%204%20Cropped-LR.jpg");
-  background-image: linear-gradient(180deg, rgba(223, 187, 176, 0.9), rgba(223, 187, 176, 0.9)), url("../images/624b25c68c404b74e4e14620_Plant%204%20Cropped-LR.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(223, 187, 176, 0.9)), to(rgba(223, 187, 176, 0.9))), url("/images/624b25c68c404b74e4e14620_Plant%204%20Cropped-LR.jpg");
+  background-image: linear-gradient(180deg, rgba(223, 187, 176, 0.9), rgba(223, 187, 176, 0.9)), url("/images/624b25c68c404b74e4e14620_Plant%204%20Cropped-LR.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .plant-background.resilience {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(183, 205, 150, 0.9)), to(rgba(183, 205, 150, 0.9))), url("../images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
-  background-image: linear-gradient(180deg, rgba(183, 205, 150, 0.9), rgba(183, 205, 150, 0.9)), url("../images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(183, 205, 150, 0.9)), to(rgba(183, 205, 150, 0.9))), url("/images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
+  background-image: linear-gradient(180deg, rgba(183, 205, 150, 0.9), rgba(183, 205, 150, 0.9)), url("/images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
   background-position: 0px 0px, 50% 50%;
 }
 
@@ -8265,7 +8265,7 @@ blockquote {
   width: 22rem;
   height: 22rem;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b6a53e14634_Infrared%20Detox%201.jpg");
+  background-image: url("/images/624b25c68c404b6a53e14634_Infrared%20Detox%201.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -8274,7 +8274,7 @@ blockquote {
   width: 22rem;
   height: 22rem;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b3405e14621_Airwave%202.jpg");
+  background-image: url("/images/624b25c68c404b3405e14621_Airwave%202.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -8283,7 +8283,7 @@ blockquote {
   width: 22rem;
   height: 22rem;
   border-radius: 100%;
-  background-image: url("../images/624b25c68c404b0b46e14624_Focus%203.jpg");
+  background-image: url("/images/624b25c68c404b0b46e14624_Focus%203.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -8728,7 +8728,7 @@ blockquote {
   width: 100%;
   height: 20rem;
   margin-bottom: 2rem;
-  background-image: url("../images/6283fb18d002d1e937e9b439_CrCloninger%20paper.png");
+  background-image: url("/images/6283fb18d002d1e937e9b439_CrCloninger%20paper.png");
   background-position: 50% 0%;
   background-size: cover;
 }
@@ -10158,7 +10158,7 @@ blockquote {
 .services__program__section-2 {
   overflow: hidden;
   min-height: 44rem;
-  background-image: url("../images/624b25c68c404b6afae1461b_Programs%20List%20img.jpg");
+  background-image: url("/images/624b25c68c404b6afae1461b_Programs%20List%20img.jpg");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -10360,7 +10360,7 @@ blockquote {
   bottom: 0%;
   margin-top: -36px;
   margin-bottom: -36px;
-  background-image: url("../images/62927856e86583da3aaa341c_f62f8339-5f71-4311-bf29-817a0aafd7ac.jpg");
+  background-image: url("/images/62927856e86583da3aaa341c_f62f8339-5f71-4311-bf29-817a0aafd7ac.jpg");
   background-position: 50% 65%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -10417,7 +10417,7 @@ blockquote {
   bottom: 0%;
   width: 100%;
   height: 100%;
-  background-image: url("../images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
+  background-image: url("/images/624b25c68c404b6db2e1461a_Fossil%20Spiral.jpg");
   background-position: 50% 60%;
   background-size: cover;
 }
@@ -10443,7 +10443,7 @@ blockquote {
   margin-top: -36px;
   margin-bottom: -36px;
   background-color: transparent;
-  background-image: url("../images/628f898c047caaf2cc67eb15_Fond-Fleuri.jpg");
+  background-image: url("/images/628f898c047caaf2cc67eb15_Fond-Fleuri.jpg");
   background-position: 0px 0px;
   background-size: auto;
 }
@@ -10639,7 +10639,7 @@ blockquote {
   bottom: 0%;
   width: 100%;
   height: 100%;
-  background-image: url("../images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
+  background-image: url("/images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
   background-position: 50% 60%;
   background-size: cover;
 }
@@ -10769,8 +10769,8 @@ blockquote {
   }
 
   .bg-2 {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(158, 150, 141, 0.69)), to(rgba(158, 150, 141, 0.69))), url("../images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
-    background-image: linear-gradient(180deg, rgba(158, 150, 141, 0.69), rgba(158, 150, 141, 0.69)), url("../images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(158, 150, 141, 0.69)), to(rgba(158, 150, 141, 0.69))), url("/images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
+    background-image: linear-gradient(180deg, rgba(158, 150, 141, 0.69), rgba(158, 150, 141, 0.69)), url("/images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
     background-repeat: repeat, no-repeat;
@@ -11095,7 +11095,7 @@ blockquote {
   }
 
   .background-image {
-    background-image: url("../images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
+    background-image: url("/images/624b25c68c404b4796e14610_Body%20Tone__Table.jpg");
   }
 
   .fibonacci-wrapper.fibonacci-section {
@@ -11134,7 +11134,7 @@ blockquote {
     border-width: 2px;
     border-color: #fff;
     border-radius: 100%;
-    background-image: url("../images/624b25c68c404bd1fbe1460f_Woman%20Cropped-LR.jpg");
+    background-image: url("/images/624b25c68c404bd1fbe1460f_Woman%20Cropped-LR.jpg");
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -11161,7 +11161,7 @@ blockquote {
     border-width: 2px;
     border-color: #fff;
     border-radius: 100%;
-    background-image: url("../images/624b25c68c404b2e96e14616_Focus_Closeup.jpg");
+    background-image: url("/images/624b25c68c404b2e96e14616_Focus_Closeup.jpg");
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -11185,7 +11185,7 @@ blockquote {
     border-width: 2px;
     border-color: #fff;
     border-radius: 100%;
-    background-image: url("../images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
+    background-image: url("/images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -11216,7 +11216,7 @@ blockquote {
     border-width: 2px;
     border-color: #fff;
     border-radius: 100%;
-    background-image: url("../images/624b25c68c404b076ee14613_Meditation.jpg");
+    background-image: url("/images/624b25c68c404b076ee14613_Meditation.jpg");
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -11236,7 +11236,7 @@ blockquote {
     border-width: 2px;
     border-color: #fff;
     border-radius: 100%;
-    background-image: url("../images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
+    background-image: url("/images/624b25c68c404b8991e14614_Rose%20Cropped-LR.jpg");
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -11282,7 +11282,7 @@ blockquote {
     border-width: 2px;
     border-color: #fff;
     border-radius: 100%;
-    background-image: url("../images/624b25c68c404b5922e14615_Facial%20Renew_Closeup.jpg");
+    background-image: url("/images/624b25c68c404b5922e14615_Facial%20Renew_Closeup.jpg");
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -11349,7 +11349,7 @@ blockquote {
     border-width: 2px;
     border-color: #fff;
     border-radius: 100%;
-    background-image: url("../images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
+    background-image: url("/images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -11674,7 +11674,7 @@ blockquote {
   }
 
   .home__fibonacci__5wrap {
-    background-image: url("../images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
+    background-image: url("/images/624b25c68c404b6090e14617_Blue%20Shell%20Cropped-LR.jpg");
   }
 
   .paragraph-2 {
@@ -11733,7 +11733,7 @@ blockquote {
   }
 
   .home__fibonacci__8wrap {
-    background-image: url("../images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
+    background-image: url("/images/624b25c68c404b7ad5e14618_Cactus%20Cropped-LR.jpg");
   }
 
   .home-page__icon-list__list-item {
@@ -11945,7 +11945,7 @@ blockquote {
   }
 
   .hero-background-image.faq__background {
-    background-image: url("../images/627bfa9c10d3c01e01462eda_Cell%20Recharge%202.jpg");
+    background-image: url("/images/627bfa9c10d3c01e01462eda_Cell%20Recharge%202.jpg");
     background-position: 50% -360%;
     background-size: cover;
   }
@@ -14842,7 +14842,7 @@ blockquote {
   }
 
   .background.one {
-    background-image: url("../images/624b25c68c404b0cfbe14622_Iso%20Float%205.jpg");
+    background-image: url("/images/624b25c68c404b0cfbe14622_Iso%20Float%205.jpg");
     background-position: 50% 50%;
   }
 
@@ -15603,7 +15603,7 @@ blockquote {
   }
 
   .section-3 {
-    background-image: url("../images/624b25c68c404b6971e1462d_anthropedia-center-dual.png");
+    background-image: url("/images/624b25c68c404b6971e1462d_anthropedia-center-dual.png");
     background-position: 50% 50%;
     background-size: cover;
   }
